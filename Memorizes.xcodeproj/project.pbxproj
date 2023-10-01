@@ -51,8 +51,8 @@
 		B61A3D092AC94BF200128489 /* Memorizes */ = {
 			isa = PBXGroup;
 			children = (
-				B61A3D0A2AC94BF200128489 /* MemorizesApp.swift */,
 				B61A3D0C2AC94BF200128489 /* ContentView.swift */,
+				B61A3D0A2AC94BF200128489 /* MemorizesApp.swift */,
 				B61A3D0E2AC94BF300128489 /* Assets.xcassets */,
 				B61A3D102AC94BF300128489 /* Preview Content */,
 			);
